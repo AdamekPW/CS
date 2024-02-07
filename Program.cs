@@ -108,6 +108,7 @@ namespace BST
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("Dziala");
             List<int> Data = new List<int>() { 2, 1, 4, 5, 8 };
             int[] Dane = new int[] { 7, 4, 2, 3, 7, 1 };
             //Node root = BST.ListToBST(Data);
